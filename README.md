@@ -53,7 +53,7 @@ DevSecOps tools, and automating release processes. Proficient in various scripti
 
 ## 🎓 Education & Certifications
 
-- **B Tech in Electronics and Communication**, Govt Engineering College, Thrissr. 2000-2004.
+- **B Tech in Electronics and Communication**, Govt Engineering College, Thrissur. 2000-2004.
 - **CKAD :** [View my badge](https://www.credly.com/badges/8f0508b3-777d-4e29-a60e-f2a14381cfcc/public_url)
 - **Pivotal Cloud Foundry :** [View my badge](https://bcert.me/bc/html/show-badge.html?b=aawbcwpa)
 
@@ -63,4 +63,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/josephchackoc)
 
 ---
 
-_This repository and its contents are maintained by Joseph Chacko. For more details, please see the attached resume._
+_This repository and its contents are maintained by Joseph Chacko.
