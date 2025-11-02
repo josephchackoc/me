@@ -1,7 +1,3 @@
-# Joseph Chacko C
-
----
-
 
 ## 👨‍💼 About Me
 
