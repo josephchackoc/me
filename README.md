@@ -1,49 +1,68 @@
-# Joseph Chacko
+# Joseph Chacko C
 
-Welcome to my personal repository!  
-This repository contains information about my professional journey, experience, and credentials. You can also find my up-to-date resume in this repository: [Joseph.Chacko_July2025.pdf](Joseph.Chacko_July2025.pdf).
+Welcome to my repository about myself!  
+This repository contains information about my professional journey, experience, and credentials.
 
 ---
 
-## 📄 Resume
-
-My full resume is available [here](Joseph.Chacko_July2025.pdf) for detailed information.
 
 ## 👨‍💼 About Me
 
-I am Joseph Chacko, an experienced IT professional with a proven track record in project management, solution architecture, and hands-on implementation in various domains. My expertise spans across multiple industry sectors, leveraging technology to drive business outcomes.
+I am Joseph Chacko C, I am an Experienced Staff Software Engineer with expertise in designing, deploying and maintaining build infrastructures. Proven track record of successfully implementing pipelines, integrating
+DevSecOps tools, and automating release processes. Proficient in various scripting languages, version control systems, build systems and cloud platforms.
 
-- **Email:** [josephchackoc@yahoo.com](mailto:josephchackoc@yahoo.com)
+
 - **LinkedIn:** [linkedin.com/in/josephchackoc](https://www.linkedin.com/in/josephchackoc)
-- **Credly Badge:** [View my badge](https://www.credly.com/badges/8f0508b3-777d-4e29-a60e-f2a14381cfcc/public_url)
-- **Bcert Badge:** [View my badge](https://bcert.me/bc/html/show-badge.html?b=aawbcwpa)
+
 
 ## 🏆 Key Skills
 
-- Project & Program Management
-- Solutions Architecture
-- Cloud Technologies (Azure, AWS, GCP)
 - DevOps & Automation
+- Solutions Architecture
+- Cloud Technologies (Azure, AWS)
 - IT Strategy & Transformation
 - Agile & Waterfall Methodologies
 - Stakeholder Management
 - Team Leadership & Mentoring
+- Project & Program Management
 
 ## 💼 Professional Experience
 
-- **Leadership in Solution Delivery:** Managed and delivered complex IT projects and programs for global organizations.
-- **Cloud & DevOps:** Architected and implemented cloud solutions, driving automation and efficiency.
-- **Business Transformation:** Led digital transformation initiatives, aligning IT strategy with business goals.
-- **Cross-Functional Collaboration:** Worked with diverse teams to achieve successful project outcomes.
+- **Ivanti India Pvt Ltd, Bangalore | Feb 2019 – Till date | Staff Software Engineer**
+  - **Build Infrastructure Management:** Design, setup, and maintain build infrastructures both on-premise and in AWS cloud, including Jenkins masters, agents, GitHub runners, Nexus, file servers, and Prometheus monitoring servers. Infrastructure as Code (IaC): Utilize tools like CloudFormation, Terraform, and Ansible for setting up build infrastructure.
+  - **CI/CD Pipeline Management:** Responsible for CI pipelines for over 200 repositories for MobileIron products, developing Jenkins shared libraries and GitHub custom actions for common build tasks.
+  - **DevSecOps Integration:** Integrated DevSecOps tools such as Blackduck, Polaris, and GitHub Advanced Security (GHAS) into build pipelines.
+  - **Bots** Integrated GitHub with Jenkins via a custom bot, enabling comment-driven pipeline execution directly from Pull Requests. Also designed and deployed an ADO bot that interprets ticket comments to initiate automated release sequences, enhancing deployment speed.
+  - **Migration Projects:** Lead migration of Jenkins CI pipelines from freestyle jobs to multibranch pipeline jobs, jenkins pipeline to Github Action workflows, Bitbucket to GitHub(cloud) migration for over 800 repositories, On-premise build infra to AWS .. etc
+  - **Release Management:** Automate and execute release pipelines, uploading builds to Support portal/Android Play Store/Apple App Store, hand off released artifacts to other teams/customers..etc
+  - **Automation:** Automate manual tasks like branching process for different products, monitoring CI-Agents health and auto cleaning the disk/nfs volumes, OSS License report generation from Blackduck, Close the ADO/Jira tasks after a predefined time, or Jira report generation ..etc,
+  - **Support and Maintenance:** Provide day-to-day support for build issues, SCM tasks like branching, versioning, and debugging issues related to pull request merges.
+
+- **Dell International Services, Bangalore | April 2013 – Feb 2019 | Software Principal Engineer**
+  - **Build Systems Management:** Designed, set up, and maintained build systems for SupportAssist productions.
+  - **Installer Development:** Designed and implemented SupportAssist installers using InstallShield and custom tools.
+  - **Pipeline setup for Environment creation and Build deployment:** Set up Jenkins pipeline for creation different NonProduction Environment and Build deployment pipeline for SupportAssist Backend 
+  - **Developed BuildTracker:** A Django based dashboard for tracking Builds on different stages like QA/SIT/PERF/PRE-Prod for different applications/services.
+  - **Release Validation:** Responsible for executing the release validation process for each release.
+  - **Source Control Management:** Created and maintained TFS branches for SupportAssist  product releases.
+  - **Migration Projects:** Led TFS to GitLab migration activities, including loading code from  TFS to GitLab and conducting documentation/sessions on Git workflow.
+  - **SCM Support:** Assisted the team with SCM-related tasks and issues on a day-to-day basis.
+- **Nokia India Pvt Ltd, Bangalore | May 2010 – March 2013 | R & D Software Engineer**
+
+- **Symphony Services, Bangalore| Apr 2007 – May 2010 | Software Engineer - Product**
+
+- **US Technology (India) Ltd, Trivandrum | Jan 2005 – Mar 2007 | Software Engineer**
+
 
 ## 🎓 Education & Certifications
 
-- [Refer to Resume for full details]
-- Azure, AWS, and other technical certifications
+- **Govt Engineering College, Thrissr.** B Tech in Electronics and Communication 2000-2004.
+- **CKAD :** [View my badge](https://www.credly.com/badges/8f0508b3-777d-4e29-a60e-f2a14381cfcc/public_url)
+- **Pivotal Cloud Foundry :** [View my badge](https://bcert.me/bc/html/show-badge.html?b=aawbcwpa)
 
 ## 🌐 Connect
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/josephchackoc) or email me at [josephchackoc@yahoo.com](mailto:josephchackoc@yahoo.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/josephchackoc).
 
 ---
 
